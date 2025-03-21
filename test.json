@@ -1,2 +1,3 @@
-ini adalah test dari fitur graphql
-ini juga test apakah bisa support multi-line
+{
+  "ini adalah test dari fitur graphql":"ini juga test apakah bisa support multi-line"
+}
